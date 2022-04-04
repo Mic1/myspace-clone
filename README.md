@@ -15,3 +15,5 @@ either yarn or npm install to reconstitute npm_modules folder.
 # Run:
 
 npm run dev from visual code terminal.
+
+App will be available on localhost/3000
