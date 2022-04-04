@@ -1,0 +1,66 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0.5rem;
+  height: 1.5rem;
+  width: 1.5rem;
+  border-radius: 9999px;
+  background-color: rgb(240, 83, 10);
+  padding: 0.75rem; /* 12px */
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  font-size: 0.75rem; /* 12px */
+  line-height: 1rem; /* 16px */
+  color: rgb(255 255 255);
+  @media (min-width: 0px) { background-color: rgb(240, 83, 10); }
+  @media (min-width: 576px) { background-color: deeppink; }
+  @media (min-width: 768px) { background-color: rgb(14, 67, 241); }
+  @media (min-width: 992px) { background-color: darkgreen; }
+  @media (min-width: 1200px) { background-color: indigo; }
+}
+
+.xs {
+  display: block;
+  @media (min-width: 0px) { display: block; }
+  @media (min-width: 576px) { display: none; }
+  @media (min-width: 768px) { display: none; }
+  @media (min-width: 992px) { display: none; }
+  @media (min-width: 1200px) { display: none; }
+}
+
+.sm {
+  display: hidden;
+  @media (min-width: 0px) { display: none; }
+  @media (min-width: 576px) { display: block; }
+  @media (min-width: 768px) { display: none; }
+  @media (min-width: 992px) { display: none; }
+  @media (min-width: 1200px) { display: none; }
+}
+
+.md {
+  display: hidden;
+  @media (min-width: 0px) { display: none; }
+  @media (min-width: 576px) { display: none; }
+  @media (min-width: 768px) { display: block; }
+  @media (min-width: 992px) { display: none; }
+  @media (min-width: 1200px) { display: none; }
+}
+
+.lg {
+  display: hidden;
+  @media (min-width: 0px) { display: none; }
+  @media (min-width: 576px) { display: none; }
+  @media (min-width: 768px) { display: none; }
+  @media (min-width: 992px) { display: block; }
+  @media (min-width: 1200px) { display: none; }
+}
+
+.xl {
+  display: hidden;
+  @media (min-width: 0px) { display: none; }
+  @media (min-width: 576px) { display: none; }
+  @media (min-width: 768px) { display: none; }
+  @media (min-width: 992px) { display: none; }
+  @media (min-width: 1200px) { display: block; }
+}
+

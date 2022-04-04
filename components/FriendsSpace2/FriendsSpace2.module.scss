@@ -1,0 +1,38 @@
+@import "../../variables/variables.scss";
+
+.title {
+  color:rgb(24, 135, 240);
+  font-size: 1rem;
+  text-align: center;
+  margin-bottom: 2px;
+}
+
+.card {
+  margin-bottom: 10px;
+}
+
+.mainSectionHeader {
+  background-color: $blueColor;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-bottom: 8px;
+}
+
+.mainSectionSubHeader {
+  color: #fcfcfc;
+  margin-left: 20px;
+}
+
+.view {
+  display: flex;
+  justify-content: right;
+  //padding-top: 2px;
+}
+
+.row {
+  margin-bottom: 6px;
+}
+
+.col {
+  padding: 0px 5px;
+}

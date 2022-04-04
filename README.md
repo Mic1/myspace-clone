@@ -1,21 +1,17 @@
-# Next.js with react-bootstrap example
+# A Tom MySpace clone code in next/react/css modules/scss
 
-This example shows how to use Next.js along with [react-bootstrap](https://react-bootstrap.github.io/).
+The github link is behind the MySpace navbar brand
 
-## Deploy your own
+There is still work to be done on the Navbar
+: centering links,
+: fixing the scrolling off screen when this many links conflict
+with the smallerscreen sizes before the "hamburger" drop-down
+kicks in. Maybe double bank the nav for this situation?
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example) or preview live with [StackBlitz](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-react-bootstrap)
+# Installation:
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-react-bootstrap&project-name=with-react-bootstrap&repository-name=with-react-bootstrap)
+either yarn or npm install to reconstitute npm_modules folder.
 
-## How to use
+# Run:
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-react-bootstrap with-react-bootstrap-app
-# or
-yarn create next-app --example with-react-bootstrap with-react-bootstrap-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+npm run dev from visual code terminal.

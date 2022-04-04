@@ -1,0 +1,52 @@
+@import "../../variables/variables.scss";
+
+.blurb {
+  margin-bottom: 25px;
+}
+
+.figure {
+  display: flex;
+  margin-left: 15px;
+  font-weight: bold;
+
+  .figureimage {
+    margin-left: 20px;
+  }
+
+  .figurecaption {
+    margin-left: 20px;
+    color: rgb(248, 6, 78);
+  }
+}
+
+.mainSectionHeader {
+  background-color: $blueColor;
+  padding-top: 3px;
+  padding-bottom: 3px;
+  margin-bottom: 8px;
+}
+
+.mainSectionH2 {
+  color: #ffffff;
+  margin-left: 20px;
+}
+
+.blurbsH3 {
+  margin: 0;
+  color: #FFFFFF;
+  font-size: 9pt;
+  margin-left: 15px;
+}
+
+.blurbsP:nth-of-type(5) {
+  margin-bottom: 2em;
+}
+
+.blurbsP {
+  margin: 0 10px 15px 15px;
+}
+
+.info {
+  color: green;
+  font-weight: bold;
+}

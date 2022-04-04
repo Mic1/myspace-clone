@@ -1,0 +1,19 @@
+@import "../../variables/variables.scss";
+
+.cardHeader {
+  background-color: $blueColor;
+}
+
+.item {
+  height: 2rem;
+}
+
+.a {
+  height: 3 rem;
+  padding: 0px;
+}
+.card {
+  // width: 26rem;
+  display: flex;
+  margin-bottom: 25px;
+}

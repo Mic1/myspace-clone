@@ -1,0 +1,72 @@
+[
+  {
+    "id": 0,
+    "url": "#",
+    "label": "Home"
+  },
+  {
+    "id": 1,
+    "url": "#",
+    "label": "Browse"
+  },
+  {
+    "id": 2,
+    "url": "#search",
+    "label": "Search"
+  },
+  {
+    "id": 3,
+    "url": "#invite",
+    "label": "Invite"
+  },
+  {
+    "id": 4,
+    "url": "#film",
+    "label": "Film"
+  },
+  {
+    "id": 5,
+    "url": "#mail",
+    "label": "Mail"
+  },
+  {
+    "id": 6,
+    "url": "#blog",
+    "label": "Blog"
+  },
+  {
+    "id": 7,
+    "url": "#Favorites",
+    "label": "Favorites"
+  },
+  {
+    "id": 8,
+    "url": "#forum",
+    "label": "Forum"
+  },
+  {
+    "id": 9,
+    "url": "#groups",
+    "label": "Groups"
+  },
+  {
+    "id": 10,
+    "url": "#events",
+    "label": "Events"
+  },
+  {
+    "id": 11,
+    "url": "#videos",
+    "label": "Videos"
+  },
+  {
+    "id": 12,
+    "url": "#music",
+    "label": "Music"
+  },
+  {
+    "id": 13,
+    "url": "#classifieds",
+    "label": "Classifieds"
+  }
+]
