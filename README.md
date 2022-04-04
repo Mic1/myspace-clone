@@ -17,3 +17,5 @@ either yarn or npm install to reconstitute npm_modules folder.
 npm run dev from visual code terminal.
 
 App will be available on localhost/3000
+
+![Tom_MySpace.png](https://github.com/Mic1/myspace-clone/blob/main/public/images/Tom_MySpace.PNG)
