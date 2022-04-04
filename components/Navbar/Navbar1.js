@@ -10,7 +10,7 @@ function Navbar1() {
 	return (
 		<Container>
 			<Navbar bg="primary" variant="dark" expand="md" fixed="top">
-				<Navbar.Brand href="https://github.com/Mic1?tab=repositories">
+				<Navbar.Brand href="https://github.com/Mic1/myspace-clone">
 					MySpace
 				</Navbar.Brand>
 				<Navbar.Toggle aria-controls="navbarScroll" />
