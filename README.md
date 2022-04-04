@@ -1,11 +1,11 @@
 # A Tom MySpace clone coded in next/react/css modules/scss
 
-The github link is behind the MySpace navbar brand
+The github link is behind the MySpace NavBar Brand "MySpace"
 
 There is still work to be done on the Navbar
 : centering links,
 : fixing the scrolling off screen when this many links conflict
-with the smallerscreen sizes before the "hamburger" drop-down
+with the smaller screen sizes before the "hamburger" drop-down
 kicks in. Maybe double bank the nav for this situation?
 
 # Installation:
