@@ -1,4 +1,4 @@
-# A Tom MySpace clone code in next/react/css modules/scss
+# A Tom MySpace clone coded in next/react/css modules/scss
 
 The github link is behind the MySpace navbar brand
 
