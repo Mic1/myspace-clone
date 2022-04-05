@@ -43,7 +43,11 @@ function FriendsSpace2() {
 										<Card.Title className={styles.title}>
 											{item.name}
 										</Card.Title>
-										<Image fluid src={urlString} />
+										<Image
+											fluid
+											src={urlString}
+											alt={item.alt}
+										/>
 									</Card.Body>
 								</Card>
 							</Col>

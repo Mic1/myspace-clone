@@ -2,41 +2,49 @@
   {
     "id": 0,
     "name": "Kickback",
-    "image": "cat7.jpg"
+    "image": "cat7.jpg",
+    "alt": "cat named Kickback"
   },
   {
     "id": 1,
     "name": "Blue",
-    "image": "cat1.jpg"
+    "image": "cat1.jpg",
+    "alt": "cat named Blue"
   },
   {
     "id": 2,
     "name": "Nightshade",
-    "image": "cat2.jpg"
+    "image": "cat2.jpg",
+    "alt": "cat named NightShade"
   },
   {
     "id": 3,
     "name": "Sam",
-    "image": "cat3.jpg"
+    "image": "cat3.jpg",
+    "alt": "cat named Sam"
   },
   {
     "id": 4,
     "name": "Bella",
-    "image": "cat4.jpg"
+    "image": "cat4.jpg",
+    "alt": "cat named Bella"
   },
   {
     "id": 5,
     "name": "Wiggles",
-    "image": "cat5.jpg"
+    "image": "cat5.jpg",
+    "alt": "cat named Wiggles"
   },
   {
     "id": 6,
     "name": "Delilah",
-    "image": "cat6.jpg"
+    "image": "cat6.jpg",
+    "alt": "cat named Delilah"
   },
   {
     "id": 7,
     "name": "Sparky",
-    "image": "cat9.jpg"
+    "image": "cat9.jpg",
+    "alt": "cat named Sparky"
   }
 ]

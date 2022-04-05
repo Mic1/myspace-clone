@@ -2,41 +2,49 @@
   {
     "id": 0,
     "name": "Cool Dog",
-    "image": "cooldog.jpg"
+    "image": "cooldog.jpg",
+    "alt": "dog named Cool Dog"
   },
   {
     "id": 1,
     "name": "Skippy",
-    "image": "dog1.jpg"
+    "image": "dog1.jpg",
+    "alt": "dog named Skippy"
   },
   {
     "id": 2,
     "name": "Hulk",
-    "image": "dog2.jpg"
+    "image": "dog2.jpg",
+    "alt": "dog named Hulk"
   },
   {
     "id": 3,
     "name": "Footsie",
-    "image": "dog3.jpg"
+    "image": "dog3.jpg",
+    "alt": "dog named Footsie"
   },
   {
     "id": 4,
     "name": "Gremlin",
-    "image": "dog4.jpg"
+    "image": "dog4.jpg",
+    "alt": "dog named Gremlin"
   },
   {
     "id": 5,
     "name": "Bouncer",
-    "image": "dog5.jpg"
+    "image": "dog5.jpg",
+    "alt": "dog named Bouncer"
   },
   {
     "id": 6,
     "name": "Joe",
-    "image": "dog6.jpg"
+    "image": "dog6.jpg",
+    "alt": "dog named Joe"
   },
   {
     "id": 7,
     "name": "Precious",
-    "image": "dog8.jpg"
+    "image": "dog8.jpg",
+    "alt": "dog named Precious"
   }
 ]
